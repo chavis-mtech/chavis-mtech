@@ -61,16 +61,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chavis-mtech&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)
+<a href="http://www.github.com/chavis-mtech"><img src="https://github-readme-stats.vercel.app/api?username=chavis-mtech&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chavis-mtech's GitHub stats" /></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chavis-mtech&layout=compact&theme=dark&hide_border=true&hide_title=true)
+<a href="http://www.github.com/chavis-mtech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chavis-mtech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chavis-mtech&theme=dark&hide_border=true)
+<a href="https://github.com/chavis-mtech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavis-mtech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
-
-*Note: GitHub stats may not display if the username "chavis-mtech" is incorrect or account is private*
-
 ---
 
 ## 🎓 Education
