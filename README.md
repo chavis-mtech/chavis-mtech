@@ -1,111 +1,63 @@
-# 👋 สวัสดี! ฉันชื่อ ชวิศ เคาวรัตน์
+# Hey there! I'm Chavis Keawrat 👋
 
-<div align="center">
+**Full-Stack Developer**  
+Building HR/payroll systems and real-time restaurant POS software.  
+I write clean code, build stuff that works well, and enjoy using Ubuntu.
 
-### นักพัฒนา Full-Stack Developer
-
-**สร้างระบบ HR/เงินเดือน & ร้านอาหารแบบเรียลไทม์**  
-ชอบเขียนโค้ดที่สะอาด ออกแบบระบบให้ใช้งานง่าย และใช้ Ubuntu เป็นหลัก 🐧
-
-[📧 ส่งอีเมล](mailto:chavis.mtech@gmail.com) • [🌐 ผลงาน](http://mynpo.com) • [💻 GitHub](https://github.com/chavis-mtech)
-
-</div>
+📍 Working remotely • 🖥️ Daily driver: Ubuntu • ✉️ chavis.mtech@gmail.com
 
 ---
 
-## 👤 เกี่ยวกับฉัน
+## About Me
 
-```text
-📍 อยู่ที่ไหนก็ได้ (ทำงานทางไกล)
-💼 ตำแหน่งปัจจุบัน: Full-Stack Developer @ Bookengine.com
-🎯 ชำนาญ: ระบบเงินเดือนพนักงาน & ระบบร้านอาหารแบบเรียลไทม์
-🖥️ ใช้คอมอะไร: Ubuntu 22.04 LTS
-❤️ สิ่งที่ชอบ: แก้ปัญหายากๆ ด้วยโค้ดที่สวยงาม
-```
+I've been building software for **2+ years**, currently working at **Bookengine.com**. I mostly work on systems that help companies manage their staff and payroll, and restaurant systems that update in real time between waiters and the kitchen.
 
-ทำงานเป็นนักพัฒนาเว็บมา **2+ ปี** ชอบสร้างระบบที่ใช้งานจริงได้ดี เน้นให้ผู้ใช้ใช้งานง่ายและโค้ดดูแลต่อได้ง่าย
+I like making things that are easy to use, easy to fix, and just work well.
 
 ---
 
-## 🔧 เทคโนโลยีที่ใช้เป็นประจำ
+## Tech I Use Regularly
 
-### **ด้านหลังเว็บ (Backend)**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### **ด้านหน้าของเว็บ (Frontend)**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **ฐานข้อมูล**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **เครื่องมือที่ชอบ**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Backend:** PHP • Laravel • Node.js  
+**Frontend:** Vue.js • Next.js • TypeScript  
+**Database:** MySQL • PostgreSQL  
+**Tools & Other:** Ubuntu • VS Code • Git • Docker
 
 ---
 
-## 🚀 ผลงานเด่น
+## Some Things I've Built
 
-### **ระบบเงินเดือนพนักงาน (Livepocket)**
-*ใช้ PHP, Vue.js, MySQL*
-- สร้างระบบอนุมัติเอกสารพร้อมลายเซ็นดิจิทัลหลายคน
-- ออกแบบระบบคำนวณค่าล่วงเวลาอัตโนมัติ
-- ทำการแจ้งเตือนแบบเรียลไทม์ในเว็บและมือถือ
-- บีบอัดไฟล์ให้เล็กลง 60% โดยไม่เสียคุณภาพ
+### **Livepocket – HR & Payroll System**
+- Built a document approval system with digital signatures
+- Made an automatic overtime calculation system
+- Added real-time notifications for web and mobile
+- Made file uploads 60% smaller without losing quality
 
-### **ระบบร้านอาหารแบบเรียลไทม์ (TITANSJET)**
-*ใช้ CodeIgniter, NextJS, Socket.io*
-- สร้างระบบสั่งอาหารที่อัพเดตถึงครัวทันที
-- พัฒนาระบบจัดการงานแบบ Kanban Board
-- ออกแบบหน้าจอครัวที่เห็นรายการอาหารและเวลาจริง
-- ทำให้ใช้งานในมือถือได้ดี
+### **TITANSJET – Real-time Restaurant System**
+- Created an ordering system that updates the kitchen instantly
+- Built a task management system with Kanban boards
+- Made kitchen display screens that show orders and timers
+- Made everything work well on phones too
 
-### **ระบบอนุมัติเอกสารออนไลน์**
-*ใช้ Laravel, Vue.js*
-- สร้างแบบฟอร์ม PDF ที่แก้ไขและเซ็นชื่อออนไลน์ได้
-- ออกแบบขั้นตอนอนุมัติหลายระดับ
-- ทำแจ้งเตือนเมื่อมีเอกสารใหม่
-- จัดการสิทธิ์การดูเอกสาร
+### **Online Document Approval System**
+- Made PDF forms you can fill out and sign online
+- Set up multi-step approval workflows
+- Added notifications for new documents
+- Managed who can see which documents
 
 ---
 
-## 📊 สถิติใน GitHub
+## GitHub Activity
 
-<div align="center">
-  
-![สถิติ GitHub](https://github-readme-stats.vercel.app/api?username=chavis-mtech&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)
-![ภาษาโปรแกรมที่ใช้](https://github-readme-stats.vercel.app/api/top-langs/?username=chavis-mtech&layout=compact&theme=dark&hide_border=true&hide_title=true)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chavis-mtech&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chavis-mtech&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 📞 ติดต่อฉันได้เลย
+## Let's Connect
 
-<div align="center">
+**Email:** chavis.mtech@gmail.com  
+**GitHub:** github.com/chavis-mtech  
+**Portfolio:** mynpo.com
 
-[![อีเมล](https://img.shields.io/badge/อีเมล-chavis.mtech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavis.mtech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-chavis--mtech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chavis-mtech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ติดต่อธุรกิจ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chavis-keawrat)
-[![เว็บไซต์](https://img.shields.io/badge/เว็บไซต์ผลงาน-mynpo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://mynpo.com)
-
-**ชอบคุยเรื่องเทคโนโลยีและไอเดียใหม่ๆ ตลอดเวลา!** ✨
-
-</div>
-
----
-
-<div align="center">
-  
-*"โค้ดที่ดีคือโค้ดที่อ่านเข้าใจง่าย แก้ไขต่อได้ไม่ยาก"*
-
-**อัพเดตล่าสุด:** มีนาคม 2025  
-**มีคนเข้าดูโปรไฟล์นี้:** ![จำนวนคนดู](https://komarev.com/ghpvc/?username=chavis-mtech&color=blue)
-
-</div>
+Always happy to chat about tech, projects, or new ideas!
