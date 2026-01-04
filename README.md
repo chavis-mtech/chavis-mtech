@@ -1,114 +1,101 @@
-# Chavis Keawrat
+# 👋 สวัสดี! ฉันชื่อ ชวิศ เคาวรัตน์
 
 <div align="center">
-  
-![Hello there](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-### Full-Stack Developer
+### นักพัฒนา Full-Stack Developer
 
-Building HR/Payroll & POS solutions with focus on clean code, automation, and user experience.  
-Ubuntu enthusiast 🐧 | Real-time systems specialist
+**สร้างระบบ HR/เงินเดือน & ร้านอาหารแบบเรียลไทม์**  
+ชอบเขียนโค้ดที่สะอาด ออกแบบระบบให้ใช้งานง่าย และใช้ Ubuntu เป็นหลัก 🐧
 
-[✉️ Contact](mailto:chavis.mtech@gmail.com) • [💼 Portfolio](http://mynpo.com) • [🐙 GitHub](https://github.com/chavis-mtech)
+[📧 ส่งอีเมล](mailto:chavis.mtech@gmail.com) • [🌐 ผลงาน](http://mynpo.com) • [💻 GitHub](https://github.com/chavis-mtech)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 เกี่ยวกับฉัน
 
 ```text
-📍 Based in: New York (Remote)
-💼 Current: Full-Stack Developer @ Bookengine.com
-🎯 Focus: HR/Payroll systems & Real-time POS solutions
-🖥️ Daily Driver: Ubuntu 22.04 LTS
-🚀 Passion: Solving complex problems with elegant code
+📍 อยู่ที่ไหนก็ได้ (ทำงานทางไกล)
+💼 ตำแหน่งปัจจุบัน: Full-Stack Developer @ Bookengine.com
+🎯 ชำนาญ: ระบบเงินเดือนพนักงาน & ระบบร้านอาหารแบบเรียลไทม์
+🖥️ ใช้คอมอะไร: Ubuntu 22.04 LTS
+❤️ สิ่งที่ชอบ: แก้ปัญหายากๆ ด้วยโค้ดที่สวยงาม
 ```
 
-With **3+ years** of experience in developing enterprise-level systems, I specialize in building scalable HR/Payroll platforms and real-time POS solutions. My expertise lies in creating efficient workflows, implementing robust validation logic, and delivering user-friendly applications that solve real business problems.
+ทำงานเป็นนักพัฒนาเว็บมา **2+ ปี** ชอบสร้างระบบที่ใช้งานจริงได้ดี เน้นให้ผู้ใช้ใช้งานง่ายและโค้ดดูแลต่อได้ง่าย
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 เทคโนโลยีที่ใช้เป็นประจำ
 
-### **Backend & APIs**
+### **ด้านหลังเว็บ (Backend)**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### **Frontend Development**
+### **ด้านหน้าของเว็บ (Frontend)**
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Database & Storage**
+### **ฐานข้อมูล**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **DevOps & Tools**
+### **เครื่องมือที่ชอบ**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### **Cloud & Services**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📁 Featured Projects
+## 🚀 ผลงานเด่น
 
-### **Livepocket – HR & Payroll System**  
-*PHP (Laravel) • Vue.js • MySQL • Firebase*
-- ✅ Built multi-signature approval workflows with PDF automation using **PdfMe**
-- ✅ Developed OT calculation engine with complex validation logic and **PHPUnit** testing
-- ✅ Integrated **Firebase Cloud Messaging** for real-time notifications
-- ✅ Implemented file compression with **Pako** library (60% size reduction)
+### **ระบบเงินเดือนพนักงาน (Livepocket)**
+*ใช้ PHP, Vue.js, MySQL*
+- สร้างระบบอนุมัติเอกสารพร้อมลายเซ็นดิจิทัลหลายคน
+- ออกแบบระบบคำนวณค่าล่วงเวลาอัตโนมัติ
+- ทำการแจ้งเตือนแบบเรียลไทม์ในเว็บและมือถือ
+- บีบอัดไฟล์ให้เล็กลง 60% โดยไม่เสียคุณภาพ
 
-### **TITANSJET – Real-time POS System**  
-*CodeIgniter • NextJS • Socket.io • MySQL*
-- ✅ Created live order tracking system syncing frontend and kitchen displays via **Socket.io**
-- ✅ Developed **TaskTracker** with Kanban boards and role-based permissions
-- ✅ Built real-time checker panel with multi-comment support and automated timeout handling
-- ✅ Optimized UI for mobile/desktop with lazy loading and efficient data filtering
+### **ระบบร้านอาหารแบบเรียลไทม์ (TITANSJET)**
+*ใช้ CodeIgniter, NextJS, Socket.io*
+- สร้างระบบสั่งอาหารที่อัพเดตถึงครัวทันที
+- พัฒนาระบบจัดการงานแบบ Kanban Board
+- ออกแบบหน้าจอครัวที่เห็นรายการอาหารและเวลาจริง
+- ทำให้ใช้งานในมือถือได้ดี
 
-### **Memo & Approval System**  
-*Laravel • Vue.js • PDFMe • Pako*
-- ✅ Designed dynamic PDF generation with editable templates
-- ✅ Implemented multi-level approval flows with signature positioning logic
-- ✅ Added real-time status updates and notification dropdowns
-- ✅ Created admin tools for template management and user permissions
+### **ระบบอนุมัติเอกสารออนไลน์**
+*ใช้ Laravel, Vue.js*
+- สร้างแบบฟอร์ม PDF ที่แก้ไขและเซ็นชื่อออนไลน์ได้
+- ออกแบบขั้นตอนอนุมัติหลายระดับ
+- ทำแจ้งเตือนเมื่อมีเอกสารใหม่
+- จัดการสิทธิ์การดูเอกสาร
 
 ---
 
-## 📈 GitHub Stats
+## 📊 สถิติใน GitHub
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chavis-mtech&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chavis-mtech&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chavis-mtech&theme=dark&hide_border=true)
+![สถิติ GitHub](https://github-readme-stats.vercel.app/api?username=chavis-mtech&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)
+![ภาษาโปรแกรมที่ใช้](https://github-readme-stats.vercel.app/api/top-langs/?username=chavis-mtech&layout=compact&theme=dark&hide_border=true&hide_title=true)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📞 ติดต่อฉันได้เลย
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chavis.mtech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavis.mtech@gmail.com)
+[![อีเมล](https://img.shields.io/badge/อีเมล-chavis.mtech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavis.mtech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-chavis--mtech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chavis-mtech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chavis_Keawrat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chavis-keawrat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mynpo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://mynpo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ติดต่อธุรกิจ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chavis-keawrat)
+[![เว็บไซต์](https://img.shields.io/badge/เว็บไซต์ผลงาน-mynpo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://mynpo.com)
+
+**ชอบคุยเรื่องเทคโนโลยีและไอเดียใหม่ๆ ตลอดเวลา!** ✨
 
 </div>
 
@@ -116,9 +103,9 @@ With **3+ years** of experience in developing enterprise-level systems, I specia
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"โค้ดที่ดีคือโค้ดที่อ่านเข้าใจง่าย แก้ไขต่อได้ไม่ยาก"*
 
-**Last Updated:** March 2025  
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=chavis-mtech&color=blue)
+**อัพเดตล่าสุด:** มีนาคม 2025  
+**มีคนเข้าดูโปรไฟล์นี้:** ![จำนวนคนดู](https://komarev.com/ghpvc/?username=chavis-mtech&color=blue)
 
 </div>
