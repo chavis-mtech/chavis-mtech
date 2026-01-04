@@ -3,8 +3,6 @@
 **Full-Stack Developer** passionate about solving complex problems and building reliable systems.  
 Experienced in developing high-accuracy **Payroll systems** and **Real-time POS systems**, with a strong focus on clean code, performance, and continuous learning.
 
-📍 Remote Work • 📧 chavis.mtech@gmail.com • 📱 +66 95-159-3922
-
 ---
 
 ## 👨‍💻 Work Experience
@@ -60,21 +58,6 @@ Experienced in developing high-accuracy **Payroll systems** and **Real-time POS 
 
 > WebStorm • PhpStorm • IntelliJ IDEA • CLion • RustRover • DataGrip
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chavis-mtech&show_icons=true&count_private=true&theme=dark" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chavis-mtech&theme=dark" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chavis-mtech&layout=compact&theme=dark" />
-
-</div>
-
----
 
 ## 🎓 Education
 
