@@ -1,0 +1,21 @@
+# ---- .NET ----
+bin/
+obj/
+*.user
+[Bb]uild/
+artifacts/
+.vs/
+
+# ---- Angular / Node (src/Presentation/ui/web) ----
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+
+# ---- Env / secrets ----
+*.env
+appsettings.*.Local.json
+
+# ---- OS / IDE ----
+.DS_Store
+.idea/
